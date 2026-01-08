@@ -21,7 +21,7 @@ You will use `pandas`, `numpy`, `matplotlib`, `seaborn`, and `scikit-learn` libr
 
 ### Exploratory Data Analysis (EDA)
 
-## Part 1: 
+## Part 1: Initial Data Exploration
 
 > [!IMPORTANT]
 > When completed, insert your findings, graphs, and observations in README.md, then delete comments.
@@ -33,6 +33,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 ```
+
 - pandas: For data manipulation and analysis
 - seaborn: For statistical data visualization
 - matplotlib.pyplot: For creating plots and charts
@@ -50,7 +51,7 @@ import seaborn as sns
 
 6. Summarize your findings from steps 3-5 in 3-4 sentences.
 
-## Part 2: 
+## Part 2: Job-Specific Skills and Salary Analysis
 
 1. Similar to part 1, step 5, sort the top skills for each job title. Make sure to display job_title - skill - count. 
    
@@ -60,7 +61,7 @@ import seaborn as sns
 
 3. Create a box plot to show the salary distribution by company size.
 
- ## Part 3: 
+ ## Part 3: Time and Location Analysis
 
 1. Plot the average salary by the month.
    
@@ -72,7 +73,7 @@ import seaborn as sns
 
 4. Find the probability of jobs in each city belonging to each industry. You may leave in decimal format. 
 
-## Part 4:
+## Part 4: Visualizations and Clustering
 
 1. Graph AI jobs by City and Industry with a heatmap. Great example provided within link. 
    
@@ -82,9 +83,9 @@ import seaborn as sns
 
 2. Use the `numpy` library to find the mean, median, max, and min of the salaries.
 
-3a. import KMeans from sklearn.cluster. The goal is to generate 3 clusters to predict which will result in a higher salary. The random seed should be 10. 
+ 3a. import KMeans from sklearn.cluster. The goal is to generate 3 clusters to  predict which will result in a higher salary. The random seed should be 10. 
 
-3b. Output the min, mean, and max of the 3 groups. 
+ 3b. Output the min, mean, and max of the 3 groups. 
 
   * https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html
 
