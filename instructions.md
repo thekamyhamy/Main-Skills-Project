@@ -77,7 +77,9 @@ import seaborn as sns
 1. Graph AI jobs by City and Industry with a heatmap.
    
    * https://seaborn.pydata.org/generated/seaborn.heatmap.html
-   
+   * `annot=` is a boolean value for displayed values in the heatmap
+   * `cmap=` takes in a string of a color map to adjust the color map of the heatmap
+
 2. Use the `numpy` library to find the mean, median, max, and min of the salaries.
 
 3a. import KMeans from sklearn.cluster. The goal is to generate 3 clusters to predict which will result in a higher salary. The random seed should be 10. 
