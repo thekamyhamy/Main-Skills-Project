@@ -74,7 +74,7 @@ import seaborn as sns
 
 ## Part 4:
 
-1. Graph AI jobs by City and Industry with a heatmap.
+1. Graph AI jobs by City and Industry with a heatmap. Great example provided within link. 
    
    * https://seaborn.pydata.org/generated/seaborn.heatmap.html
    * `annot=` is a boolean value for displayed values in the heatmap
