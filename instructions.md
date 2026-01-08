@@ -83,10 +83,10 @@ import seaborn as sns
 
 2. Use the `numpy` library to find the mean, median, max, and min of the salaries.
 
- 3a. import KMeans from sklearn.cluster. The goal is to generate 3 clusters to  predict which will result in a higher salary. The random seed should be 10. 
+  3a. import KMeans from sklearn.cluster. The goal is to generate 3 clusters to      predict which will result in a higher salary. The random seed should be 10. 
 
- 3b. Output the min, mean, and max of the 3 groups. 
+  3b. Output the min, mean, and max of the 3 groups. 
 
   * https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html
 
-
+ 4. Create a summary of your findings. Make sure to identify any patterns and connect the value of skills to the corresponding salary proportions.  
