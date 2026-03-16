@@ -13,8 +13,10 @@
 
 ## Project Overview 
 
-As the job market shifts, especially in the engineering and computer science field, it is important to know what skills to invest in and to see how those skills can empower you into becoming a candidate for large companies. The goal of this project is to highlight skills that frequently showed up in top tech-companies in 2025. The data collected from Kaggle helps divide the 10000 job postings by salary, location, accessibility, and skills. 
+As the job market shifts, especially in the engineering and computer science fields, it is important to know what skills to invest in and to see how those skills can empower you to become a candidate for large companies. The goal of this project is to highlight skills that frequently showed up in top tech companies in 2025. The data collected from Kaggle helps divide the 10000 job postings by salary, location, accessibility, and skills. 
 
+
+# Findings: 
 
 <img width="450" height="450" alt="range" src="/Imaging/jobIDs.png" />
 <img width="400" height="600" alt="download (1)" src="https://github.com/user-attachments/assets/7dfc72f1-ed26-4d5a-97c2-580cc664e223" />
@@ -26,12 +28,12 @@ According to the dataset, climate data analysis, energy modeling, climate data a
 <img width="400" height="400" alt="range" src="/Imaging/averageSal.png" />
 
 
-The average salary fluctuates throughout 2025 with the greatest increase occuring in the middle of the year. This plot reflects typical hiring cycles, where companies expand recruitment after early year budgeting and planning phases. Afterwards, the mid-year salary peak may also be influenced by increased competition for talent during hiring periods, especially for fast growing technology markets. Toward the end of the year, the graph shows that salaries stabilize to the average salary as hiring slows.
+The average salary fluctuates throughout 2025, with the greatest increase occurring in the middle of the year. This plot reflects typical hiring cycles, where companies expand recruitment after early-year budgeting and planning phases. Afterwards, the mid-year salary peak may also be influenced by increased competition for talent during hiring periods, especially for fast-growing technology markets. Toward the end of the year, the graph shows that salaries stabilize at the average salary as hiring slows.
 
 
 <img width="500" height="500" alt="Probability" src="/Imaging/probability.png" />
 
-From the comparison of remote versus non-remote jobs and the probability of industries by city, it is clear that industries involving AI or Machine Learning are more likely to offer remote positions, while others remain more location dependent. Additionally, some cities show strong specialization in specific industries, reinforcing the idea of specialized skills. 
+From the comparison of remote versus non-remote jobs and the probability of industries by city, it is clear that industries involving AI or Machine Learning are more likely to offer remote positions, while others remain more location-dependent. Additionally, some cities show strong specialization in specific industries, reinforcing the idea of specialized skills. 
 
 
 
