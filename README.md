@@ -16,7 +16,7 @@
 As the job market shifts, especially in the engineering and computer science fields, it is important to know what skills to invest in and to see how those skills can empower you to become a candidate for large companies. The goal of this project is to highlight skills that frequently showed up in top tech companies in 2025. The data collected from Kaggle helps divide the 10000 job postings by salary, location, accessibility, and skills. 
 
 
-# Findings: 
+## Findings: 
 
 <img width="450" height="450" alt="range" src="/Imaging/jobIDs.png" />
 <img width="400" height="600" alt="download (1)" src="https://github.com/user-attachments/assets/7dfc72f1-ed26-4d5a-97c2-580cc664e223" />
@@ -47,6 +47,6 @@ From the comparison of remote versus non-remote jobs and the probability of indu
 
 
 
-# Summary: 
+## Summary: 
 
 Based on analysis of 10,000 job postings, the market shows a clear concentration of power for four key industries with average salaries around $150000. Quantum Computing commands the highest premiums (Quantum Software Developers averaging $151500) due to highly specialized skills like Quantum Algorithms and Qiskit, while Artificial Intelligence dominates volume with Python and TensorFlow as foundational requirements across roles. Blockchain represents a focused niche emphasizing Ethereum and Solidity with competitive but slightly lower compensation, whereas Green Technology shows remarkable stability with Climate Data Analysis and Energy Modeling being the most frequently demanded skills in the entire dataset. Geographic distribution reveals industry clustering—London for Quantum Computing, Singapore for Blockchain and AI—though overall opportunities are balanced across major tech hubs. Surprisingly, remote and on-site positions show near-equal availability (3,800 vs 3,723 jobs) with identical AI/ML representation (~33%), indicating that high-paying technical roles above $100K are equally accessible regardless of work location. The data ultimately demonstrates that specialized technical expertise commands premium compensation while versatile skills like Python maintain strong cross-industry demand, with top earners combining both depth and breadth of technical knowledge.
